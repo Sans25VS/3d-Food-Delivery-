@@ -8,59 +8,55 @@ import Chicken from "../assets/models/Chicken_Slice_Chicken_0.glb";
 import Lettuce from "../assets/models/Lettuce_Slice_Lettuce_0.glb";
 import Mushroom from "../assets/models/Mushroom_Slice_Mushroom_0.glb";
 import Patty from "../assets/models/Patty_Slice_Patty_0.glb";
-import Salami from "../assets/models/Salami_Slice_Salami_0.glb";
+//import Salami from "../assets/models/Salami_Slice_Salami_0.glb";
 import Sausage from "../assets/models/Sausage_Slice_Sausage_0.glb";
 import Tomato from "../assets/models/Tomato_Slice_Tomato_0.glb";
 
 export const INGREDIENTS = {
   bread: {
     src: Bread,
-    price: 0.5,
+    price: 20,
     icon: "🍞",
   },
   lettuce: {
     src: Lettuce,
-    price: 0.5,
+    price: 25,
     icon: "🥬",
   },
   mushroom: {
     src: Mushroom,
-    price: 1,
+    price: 50,
     icon: "🍄",
   },
   tomato: {
     src: Tomato,
-    price: 0.5,
+    price: 15,
     icon: "🍅",
   },
   cheese: {
     src: Cheese,
-    price: 1,
+    price: 50,
     icon: "🧀",
   },
   chicken: {
     src: Chicken,
-    price: 2,
+    price: 100,
     icon: "🍗",
   },
   sausage: {
     src: Sausage,
-    price: 1.5,
+    price: 80,
     icon: "🌭",
   },
-  salami: {
-    src: Salami,
-    price: 1.5,
-    icon: "🍖",
-  },
+ 
   bacon: {
     src: Bacon,
-    price: 1.5,
+    price: 90,
     icon: "🥓",
   },
   patty: {
     src: Patty,
-    price: 2,
+    price: 20,
     icon: "🍔",
   },
 };

@@ -44,7 +44,7 @@ export const Ingredient = ({ ingredient, showPrice, ...props }) => {
               bevelThickness={0.001}
               position-x={0.42}
             >
-              ${INGREDIENTS[ingredient.name].price.toFixed(2)}
+              Rs{INGREDIENTS[ingredient.name].price.toFixed(2)}
             </Text3D>
             <Text3D
               font={fontPath}
