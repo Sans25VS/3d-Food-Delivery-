@@ -1,7 +1,7 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
 import { Canvas } from "@react-three/fiber/native";
-
+import BottomUI from "../components/BottomUI";
 export default function App() {
   return (
     <View style={styles.container}>
@@ -14,8 +14,7 @@ export default function App() {
           <meshStandardMaterial color="hotpink" />
         </mesh>
       </Canvas>
-      <Text>Welcome to the 3D Burger App!</Text>
-      <StatusBar style="auto" />
+      <BottomUI />
     </View>
   );
 }
