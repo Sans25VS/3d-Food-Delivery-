@@ -37,7 +37,8 @@ bash
 Copy code
 npm start
 🖼️ Screenshots
-<div align="center"> <img src="https://i.pinimg.com/originals/5c/a1/02/5ca102f3b726ab87d672f1b05286881e.gif" alt="App Screenshot 1" width="45%" /> <img src=[WhatsApp Image 2024-10-23 at 12 42 56 PM](https://github.com/user-attachments/assets/f78fe4be-647e-4e3c-b6e4-b067906cef8c) width="45%" /> </div>
+<div align="center"> <img src="https://i.pinimg.com/originals/5c/a1/02/5ca102f3b726ab87d672f1b05286881e.gif" alt="App Screenshot 1" width="45%" /> <img src=[WhatsApp Image 2024-10-23 at 12 42 56 PM](https![WhatsApp Image 2024-10-23 at 12 42 56 PM](https://github.com/user-attachments/assets/3998f58e-b857-458b-bec4-620f193ff781)
+://github.com/user-attachments/assets/f78fe4be-647e-4e3c-b6e4-b067906cef8c) width="45%" /> </div>
 🤝 Contributing
 We welcome contributions! Feel free to open an issue or submit a pull request if you'd like to collaborate on this project.
 
