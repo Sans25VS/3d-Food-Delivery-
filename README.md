@@ -22,7 +22,7 @@ Follow these steps to run the 3D Burger App locally:
 Clone the repo:
 bash
 Copy code
-git clone =https://github.com/Sans25VS/3d-Food-Delivery
+git clone https://github.com/Sans25VS/3d-Food-Delivery
 Navigate to the project folder:
 bash
 Copy code
@@ -41,9 +41,18 @@ npm start
 We welcome contributions! Feel free to open an issue or submit a pull request if you'd like to collaborate on this project.
 
 Fork the repository.
-Create your feature branch (git checkout -b feature/new-feature).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature/new-feature).
+Create your feature branch:
+bash
+Copy code
+git checkout -b feature/new-feature
+Commit your changes:
+bash
+Copy code
+git commit -m 'Add new feature'
+Push to the branch:
+bash
+Copy code
+git push origin feature/new-feature
 Open a pull request.
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -53,3 +62,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 React Native, Three.js, Drei, Zustand
 🙌 Acknowledgements
 Special thanks to all the open-source libraries and creators whose work made this project possible.
+
