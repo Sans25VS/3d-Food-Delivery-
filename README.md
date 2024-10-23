@@ -1,6 +1,3 @@
-
-To create a visually appealing and informative README.md file for your GitHub repository "3D Burger App" that highlights your use of React Native, Three.js, Drei, Zustand, and Sketchfab models, you can follow this structure. Here's an example of what your README.md might look like:
-
 🍔 3D Burger App
 Welcome to the 3D Burger App! This project is a dynamic, interactive 3D burger-building application created using React Native for cross-platform development, Three.js for rendering stunning 3D models, Drei for simplifying Three.js integration, and Zustand for efficient state management. Models are sourced from Sketchfab to provide an immersive, realistic experience.
 
@@ -25,7 +22,7 @@ Follow these steps to run the 3D Burger App locally:
 Clone the repo:
 bash
 Copy code
-git clone https://github.com/yourusername/3d-burger-app.git
+git clone =https://github.com/Sans25VS/3d-Food-Delivery
 Navigate to the project folder:
 bash
 Copy code
@@ -39,7 +36,7 @@ bash
 Copy code
 npm start
 🖼️ Screenshots
-<div align="center"> <img src="https://i.pinimg.com/originals/5c/a1/02/5ca102f3b726ab87d672f1b05286881e.gif" alt="App Screenshot 1" width="45%" /> <img src="[your-image-url-2.png](https://i.pinimg.com/236x/0b/dd/b9/0bddb9ed8b435aab83c1e631af442e09.jpg)" alt="App Screenshot 2" width="45%" /> </div>
+<div align="center"> <img src="https://i.pinimg.com/originals/5c/a1/02/5ca102f3b726ab87d672f1b05286881e.gif" alt="App Screenshot 1" width="45%" /> <img src="https://i.pinimg.com/236x/0b/dd/b9/0bddb9ed8b435aab83c1e631af442e09.jpg" alt="App Screenshot 2" width="45%" /> </div>
 🤝 Contributing
 We welcome contributions! Feel free to open an issue or submit a pull request if you'd like to collaborate on this project.
 
