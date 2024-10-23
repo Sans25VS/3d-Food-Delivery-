@@ -36,7 +36,7 @@ bash
 Copy code
 npm start
 🖼️ Screenshots
-<div align="center"> <img src="https://i.pinimg.com/originals/5c/a1/02/5ca102f3b726ab87d672f1b05286881e.gif" alt="App Screenshot 1" width="45%" /> <img src="https://i.pinimg.com/236x/0b/dd/b9/0bddb9ed8b435aab83c1e631af442e09.jpg" alt="App Screenshot 2" width="45%" /> </div>
+<div align="center"> <img src="https://i.pinimg.com/originals/5c/a1/02/5ca102f3b726ab87d672f1b05286881e.gif" alt="App Screenshot 1" width="45%" /> <img src="blob:https://web.whatsapp.com/0bcfc763-7f44-4fa0-8f93-069ae4151602" width="45%" /> </div>
 🤝 Contributing
 We welcome contributions! Feel free to open an issue or submit a pull request if you'd like to collaborate on this project.
 
