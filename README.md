@@ -11,7 +11,8 @@ Enhanced 3D Rendering: Integrated with Three.js and Drei to simplify 3D scene cr
 🎥 Demo
 Check out the video demo of the app in action here.
 
-🛠️ Tech Stack
+🛠️ Tech Stack![WhatsApp Image 2024-10-23 at 12 42 56 PM](https://github.com/user-attachments/assets/f78fe4be-647e-4e3c-b6e4-b067906cef8c)
+
 Frontend: React Native, Three.js, Drei
 State Management: Zustand
 3D Models: Sourced from Sketchfab
